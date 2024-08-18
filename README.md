@@ -17,3 +17,4 @@ FluentValidation: Projede, veri doğrulama süreçlerini daha okunabilir ve yön
  Projeyi geliştirirken öğrendiğim ve uyguladığım tüm bu konular sayesinde hem teknik bilgi seviyemi artırdım hem de daha verimli bir yazılım geliştirme süreci deneyimledim. 
 
 İlginiz için teşekkürler! 🎉 
+![Alt text](./AgriCultureİmage/about2.png)
