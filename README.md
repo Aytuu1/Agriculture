@@ -18,3 +18,11 @@ FluentValidation: Projede, veri doğrulama süreçlerini daha okunabilir ve yön
 
 İlginiz için teşekkürler! 🎉 
 ![Alt text](./AgriCultureİmage/about2.png)
+![Alt text](./AgriCultureİmage/admin1.png)
+![Alt text](./AgriCultureİmage/admin2.png)
+![Alt text](./AgriCultureİmage/announcement.png)
+![Alt text](./AgriCultureİmage/contact.png)
+![Alt text](./AgriCultureİmage/gallery.png)
+![Alt text](./AgriCultureİmage/nav1.png)
+![Alt text](./AgriCultureİmage/services.png)
+![Alt text](./AgriCultureİmage/team.png)
